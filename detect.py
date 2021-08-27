@@ -47,7 +47,7 @@ COLORS = np.random.uniform(0, 255, size=(len(classes), 3))
 net = cv2.dnn.readNet(args.weights,args.config)
 
 # Define video capture for default cam
-cap = cv2.VideoCapture("3D.mp4")
+cap = cv2.VideoCapture("HeLa.mp4")
 while cv2.waitKey(1) < 0:
     
     hasframe, image = cap.read()
