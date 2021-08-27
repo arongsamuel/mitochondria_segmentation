@@ -1,0 +1,7 @@
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.0950.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.1275.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.1300.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.0125.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.1325.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.0350.jpg
+/home/aron/Documents/apeer/darknet/images/HeLa_HPF_EMBL_5x5x8_.0975.jpg
